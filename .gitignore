@@ -1,0 +1,26 @@
+# IDE i edytory
+.vscode/
+.idea/
+*.code-workspace
+
+# System
+.DS_Store
+Thumbs.db
+
+# PHP / backend
+vendor/
+*.log
+*.cache
+.phpunit.result.cache
+
+# Środowisko
+.env
+.env.*
+*.env
+config_local.php
+database_credentials.php
+
+# Uploady lub dane tymczasowe (jeśli masz)
+uploads/
+download/
+tmp/
