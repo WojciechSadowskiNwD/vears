@@ -27,32 +27,67 @@ a carousel, slider, product search by keywords, a complete user profile, a shopp
 
 ## Screenshots
 
+### TopBar & Slider
 ![Topbar](docs/screenshots/Main_1.jpg)
-![Accordion 1](docs/screenshots/Top_accordion_1.jpg)
-![Accordion 2](docs/screenshots/Top_accordion_2.jpg)
-![Accordion 3](docs/screenshots/Top_accordion_3.jpg)
-![Menu - product sections](docs/screenshots/Top_menu_1_.jpg)
+
+![Menu - product sections](docs/screenshots/Top_menu_1.jpg)
+
 ![Menu - fav items btn info](docs/screenshots/Top_menu_2.jpg)
+
+### Accordion - top buttons (pomoc & status zamówienia)
+![Accordion 1](docs/screenshots/Top_accordion_1.jpg)
+
+![Accordion 2](docs/screenshots/Top_accordion_2.jpg)
+
+![Accordion 3](docs/screenshots/Top_accordion_3.jpg)
+
+### Search any items
 ![Search items 1](docs/screenshots/Search_items_1.jpg)
+
 ![Search items 2](docs/screenshots/Search_items_2.jpg)
+
 ![Search items 3](docs/screenshots/Search_items_3.jpg)
+
+### Homepage layout
 ![Main 1](docs/screenshots/Main_2.jpg)
+
 ![Main 2](docs/screenshots/Main_3.jpg)
+
 ![Main 3](docs/screenshots/Main_4.jpg)
+
+### Product page
 ![Product page 1](docs/screenshots/Product_page_1.jpg)
+
 ![Product page 2](docs/screenshots/Product_page_2.jpg)
+
+### Cart
 ![Cart 1](docs/screenshots/Product_cart_1.jpg)
+
 ![Cart 2](docs/screenshots/Product_cart_2.jpg)
+
+### Login & Register
 ![Login](docs/screenshots/LogIn.jpg)
+
 ![Register](docs/screenshots/Register.jpg)
+
 ![Register walidation](docs/screenshots/Register_walidation.jpg)
+
+### User panel
 ![User panel 1](docs/screenshots/User_panel_1.jpg)
+
 ![User panel 2](docs/screenshots/User_panel_2.jpg)
+
 ![User panel 3](docs/screenshots/User_panel_3.jpg)
+
 ![Cart info 1](docs/screenshots/Cart_empty.jpg)
+
+### Other examples
 ![Cart info 2](docs/screenshots/Cart_finish.jpg)
+
 ![About](docs/screenshots/Info_About.jpg)
+
 ![Other example section](docs/screenshots/Info_Reg.jpg)
+
 
 ## Installation
 
